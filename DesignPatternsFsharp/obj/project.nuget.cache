@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "i/VMf6UO7e9GFghLRo4DL8crN2pRay4Mu1IgoH7UxwIOg93mmtoN17fIIwwjNXzSDLHSUNO0Ro0rMV8Mcy3GQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maxim\\OneDrive\\Desktop\\development\\ASP.NET\\DesignPatternsFsharp\\DesignPatternsFsharp\\DesignPatternsFsharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxim\\.nuget\\packages\\fsharp.core\\4.7.1\\fsharp.core.4.7.1.nupkg.sha512",
+    "C:\\Users\\maxim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

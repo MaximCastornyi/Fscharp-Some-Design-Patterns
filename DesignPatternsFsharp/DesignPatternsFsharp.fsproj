@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Command.fs" />
+    <Compile Include="Template.fs" />
+    <Compile Include="Strategy.fs" />
+    <Compile Include="Selection.fs" />
+    <Compile Include="Generators.fs" />
+    <Compile Include="Quicksort.fs" />
+    <Compile Include="Converting.fs" />
+    <Compile Include="Reordering.fs" />
+    <Compile Include="Partitioning.fs" />
+    <Compile Include="Aggregators.fs" />
+    <Compile Include="Factorial.fs" />
+    <Compile Include="Sequence.fs" />
+    <Compile Include="Aggregates.fs" />
+    <Compile Include="UsingTuples.fs" />
+    <Compile Include="Matching4.fs" />
+    <Compile Include="Matching3.fs" />
+    <Compile Include="Matching2.fs" />
+    <Compile Include="Matching1.fs" />
+    <Compile Include="Generator.fs" />
+    <Compile Include="Interfaces.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>
